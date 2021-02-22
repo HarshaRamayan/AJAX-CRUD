@@ -1,3 +1,0 @@
-JSON OBJECT : {"name":"harsha","job":"software","salary":2000}
-SIMPLE JSON ARRAY : [{"name":"harsha","job":"software","salary":2000},{"name":"harsha","job":"software","salary":2000},{"name":"harsha","job":"software","salary":2000}]
-COMPLEX JSON ARRAY :[{"employees":[{"name":"harsha","job":"software","salary":2000},{"name":"harsha","job":"software","salary":2000},{"name":"harsha","job":"software","salary":2000}]}]
